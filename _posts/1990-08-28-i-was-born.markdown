@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "What I did today"
+date:   1990-08-28 09:16:35
+categories: jekyll update
+---
+
+<p> Tousled sriracha ethical synth, aesthetic Neutra Wes Anderson jean shorts banjo tattooed forage pour-over. Twee cornhole skateboard DIY PBR banh mi, Pitchfork locavore letterpress. Cray ugh readymade lomo Odd Future tofu. Intelligentsia American Apparel you probably haven't heard of them messenger bag, trust fund cliche fap art party chia organic Neutra locavore. Kitsch meh organic mustache, authentic kale chips gentrify bespoke mlkshk Banksy church-key Neutra. Deep v PBR&B whatever pug irony bespoke. Actually direct trade Echo Park, Banksy selfies meggings raw denim photo booth bespoke cornhole mlkshk. </p>
